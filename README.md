@@ -34,6 +34,68 @@
         <h2>Contacto</h2>
         <!-- Formulario de contacto o información de contacto -->
     </section>
+body {
+    font-family: 'IBM', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f4f8;
+    color: #333;
+}
+
+header {
+    background-color: #1a237e;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #1a237e;
+}
+
+footer {
+    background-color: #1a237e;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Puedes agregar estilos específicos para otras secciones, proyectos, habilidades, etc. */
+
+/* Ejemplo de estilos para la sección de proyectos */
+#proyectos {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Ejemplo de estilos para la sección de habilidades */
+#habilidades {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Ejemplo de estilos para la sección de contacto */
+#contacto {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
     <footer>
         <p>&copy; 2023 Nombre del Desarrollador. Todos los derechos reservados.</p>
